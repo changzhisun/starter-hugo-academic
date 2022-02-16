@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -22,28 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Researcher
+    company: Bytedance
+    company_url: 'https://www.bytedance.com/en/'
+    location: Shanghai
+    date_start: '2020-06-22'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Deep reasoning in NLP
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Intern
+    company: Microsoft Research Asia
+    company_url: 'https://www.msra.cn/'
+    location: Beijing
+    date_start: '2018-12-22'
+    date_end: '2019-05-31'
+    description: Joint type inference on entities and relations.
 
 design:
   columns: '2'
