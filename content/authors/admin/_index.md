@@ -14,7 +14,7 @@ organizations:
   url: https://ailab.bytedance.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include structured prediction and deep reasoning.
+bio: My research interests include structured prediction and deep reasoning in NLP.
 
 # Interests to show in About widget
 interests:
